@@ -1,5 +1,5 @@
 {
-  "name": "node-screenshotlayer-api",
+  "name": "screenshotlayer",
   "version": "1.0.0",
   "description": "Api client for screenshotlayer",
   "main": "index.js",
