@@ -1,0 +1,22 @@
+{
+  "name": "node-screenshotlayer-api",
+  "version": "1.0.0",
+  "description": "Api client for screenshotlayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screenshot",
+    "shot",
+    "screenshotlayer",
+    "phantomjs"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  }
+}
